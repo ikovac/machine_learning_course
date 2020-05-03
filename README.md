@@ -1,4 +1,4 @@
-# machine_learning_course
+# Machine learning course
 Exercises from Machine Learning course by Stanford University.
 
 Course available on: https://www.coursera.org/learn/machine-learning?
